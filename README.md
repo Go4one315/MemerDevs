@@ -91,7 +91,7 @@ Include detailed commit messages and pull request descriptions.
 
 Explore our website: [https://memerdevs.com](https://memerdevs.com)
 
-Support the project: [MemerDevs Patreon](https://patreon.com/MemerDevs)
+Support the project: [MemerDevs](https://github.com/sponsors/Gofaone315)
 
 Join the conversation and share your ideas!
 
